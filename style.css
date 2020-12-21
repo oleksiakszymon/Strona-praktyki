@@ -1,0 +1,160 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image: url("img/repeated-square.png");
+	font-family: Helvetica, sans-serif;
+	color: rgba(24, 24, 24, 0.753);
+}
+.banner{
+	width: 100%;
+	height: 60px;
+	margin: 0, auto;
+	background: white;
+	border-bottom: 1px solid #D8D8D8;
+	box-shadow: 0 4px 4px #F1F1F1;
+	display: flex;
+	position: sticky;
+	top: 0;
+}
+#slider{
+	width: 240px;
+	height: 600px;
+	border: 1px solid black;
+	margin: 30px;
+	margin-top: 0;
+}
+.bodysection{
+	margin-left: 15%;
+	margin-right: 15%;
+	width: 70%;
+	background: white;
+	display: flex;
+}
+.mainsection{
+	width: 100%;
+	margin: 60px;
+}
+#mylogo{
+	width: 400px;
+	height: 60px;
+	position: fixed;
+	left: 15%;
+
+}
+#icon{
+	height: 50px;
+	margin: 5px;
+	float: left;
+	
+}
+#name{
+	font-size: 30px;
+	color: black;
+	font-weight: bolder;
+	float: left;
+	margin: 0;
+	margin-top: 15px;
+	
+}
+#code{
+	float: left;
+	margin-right: 30px;
+}
+.langlinks{
+	position: fixed;
+	left: 700px;
+}
+.menu{
+	width: 80px;
+	height: 60px;
+	float: left;
+	position: relative;
+	left: calc(85% - 240px);
+	text-align: center;
+	vertical-align: middle;
+	line-height: 60px;
+	font-family: Bradley Hand, cursive;
+	font-size: 15px;
+	font-style: normal;
+	color: black;
+	cursor: pointer;
+}
+.link {
+	text-decoration: none;
+	color: black;
+}
+.menu:hover .link{
+	color: blue;
+	font-size: 16px;
+}
+h1{
+	font-weight: normal;
+}
+h4{
+	margin-bottom: 0;
+	margin-right: 0;
+	font-weight: normal;
+}
+hr{
+	margin-bottom: 30px;
+}
+p{
+	font-size: 18px;
+	text-align: justify;
+}
+.footer{
+	min-width: 1000px;
+	width: 1000px;
+	height: 155px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	display: flex;
+}
+#fb{
+	width: 250px;
+	height: 155px;
+	float: left;
+}
+#fb:hover{
+	background-color: #4668b3;
+}
+#yt{
+	width: 250px;
+	height: 155px;
+	float: left;
+}
+#yt:hover{
+	background-color: #d94348;
+}
+#tw{
+	width: 250px;
+	height: 155px;
+	float: left;
+}
+#tw:hover{
+	background-color: #3095d3;
+}
+#skype{
+	width: 250px;
+	height: 155px;
+	float: left;
+}
+#skype:hover{
+	background-color: #00aff0;
+}
+.logo{
+	float: left;
+	height: 200px;
+	margin: 30px;
+	margin-left: 0;
+	margin-top: 0;
+}
+.otherlinks{
+	float: right;
+}
+.rightsection{
+	float: right;
+	width: 250px;
+	line-height: 25px;
+}
