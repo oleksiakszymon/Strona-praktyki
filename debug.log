@@ -1,1 +1,12 @@
 [1217/222704.206:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[1222/145219.917:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[1224/001643.298:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[1225/033231.306:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[1226/033231.324:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[1227/033231.327:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[1227/133523.801:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: Okreœlona d³ugoœæ rekordu informacji nie odpowiada d³ugoœci wymaganej dla okreœlonej klasy informacji . (0xc0000004)
+[1227/152056.258:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: Okreœlona d³ugoœæ rekordu informacji nie odpowiada d³ugoœci wymaganej dla okreœlonej klasy informacji . (0xc0000004)
+[1228/033229.978:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[1230/144255.603:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[0102/163720.183:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[0106/210245.616:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)

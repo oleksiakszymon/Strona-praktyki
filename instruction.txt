@@ -1,0 +1,6 @@
+Otwierane menu:
+1. ma się wyświetlać w lewo do góry od przycisku - animacja pojawienia - rozwinięcie do góry
+2. pozycje mają reagować na najechanie
+3. pozycje mają reagować na kliknięcie
+4. menu ma się zamykać po kliknięciu ale tak z 0,2s opóźnienia
+5. w zależności od wybranej opcji z menu na stronie mają zachodzić jakieś dynamiczne zmiany
